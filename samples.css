@@ -579,8 +579,8 @@ body input.button-a {
   -moz-background-clip: padding;
   border-radius: 3px;
   background-clip: padding-box;
-  font-size: 14px;
-  font-size: 0.875rem;
+  #font-size: 14px;
+  font-size: 0.675rem;
   line-height: 25.2px;
   line-height: 1.57rem;
   height: 36px;
